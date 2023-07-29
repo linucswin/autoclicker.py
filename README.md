@@ -8,7 +8,7 @@ An application that moves the caracter once in a while, so that the hours get in
 3. Find the autoclicker.exe file and run it.
 
 ## Interface
-There are 2 buttons: `START` and `STOP`
-Button `START` starts the script.
-Button `STOP` stops the script.
+There are 2 buttons: `START` and `STOP`<BR>
+Button `START` starts the script.<BR>
+Button `STOP` stops the script.<BR>
 You have a command line window, there you will see the logs.
